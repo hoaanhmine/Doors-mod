@@ -1,0 +1,59 @@
+{
+	"storyName": "DOors",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Elevator Skyam",
+			"blu",
+			[
+				206,
+				53,
+				255
+			]
+		],
+		[
+			"Guiding Sky",
+			"nu",
+			[
+				46,
+				53,
+				255
+			]
+		],
+		[
+			"Ready or not",
+			"seek",
+			[
+				20,
+				20,
+				33
+			]
+		],
+		[
+			"Lovely Elevator Skyam",
+			"blu",
+			[
+				206,
+				53,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "doors"
+}

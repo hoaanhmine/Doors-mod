@@ -1,0 +1,5 @@
+Set that black things on the top and on the
+bottom of the screen
+
+Value 1: 
+0: Activate 1: Deactivate

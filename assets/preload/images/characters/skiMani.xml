@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skiMani.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="d-ki0000" x="20" y="20" width="405" height="409" pivotX="37.25" pivotY="-43.75" frameX="0" frameY="-3" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0001" x="20" y="20" width="405" height="409" frameX="0" frameY="-3" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0002" x="445" y="20" width="401" height="417" frameX="-4" frameY="0" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0003" x="445" y="20" width="401" height="417" frameX="-4" frameY="0" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0004" x="445" y="20" width="401" height="417" frameX="-4" frameY="0" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0005" x="445" y="20" width="401" height="417" frameX="-4" frameY="0" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0006" x="445" y="20" width="401" height="417" frameX="-4" frameY="0" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="d-ki0007" x="445" y="20" width="401" height="417" frameX="-4" frameY="0" frameWidth="405" frameHeight="417"/>
+	<SubTexture name="i-ki0000" x="866" y="20" width="357" height="446" pivotX="0" pivotY="0"/>
+	<SubTexture name="l-ki0000" x="1243" y="20" width="418" height="442" pivotX="73.65" pivotY="-4.6" frameX="0" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="l-ki0001" x="1243" y="20" width="418" height="442" frameX="0" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="l-ki0002" x="20" y="486" width="393" height="442" frameX="-28" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="l-ki0003" x="20" y="486" width="393" height="442" frameX="-28" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="l-ki0004" x="20" y="486" width="393" height="442" frameX="-28" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="l-ki0005" x="20" y="486" width="393" height="442" frameX="-28" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="l-ki0006" x="20" y="486" width="393" height="442" frameX="-28" frameY="0" frameWidth="421" frameHeight="442"/>
+	<SubTexture name="r-ki0000" x="433" y="486" width="426" height="453" pivotX="24.3" pivotY="3.7" frameX="-6" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="r-ki0001" x="433" y="486" width="426" height="453" frameX="-6" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="r-ki0002" x="879" y="486" width="409" height="453" frameX="0" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="r-ki0003" x="879" y="486" width="409" height="453" frameX="0" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="r-ki0004" x="879" y="486" width="409" height="453" frameX="0" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="r-ki0005" x="879" y="486" width="409" height="453" frameX="0" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="r-ki0006" x="879" y="486" width="409" height="453" frameX="0" frameY="0" frameWidth="432" frameHeight="453"/>
+	<SubTexture name="u-ki0000" x="1308" y="486" width="364" height="479" pivotX="-3.85" pivotY="30.6" frameX="0" frameY="0" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0001" x="1308" y="486" width="364" height="479" frameX="0" frameY="0" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0002" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0003" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0004" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0005" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0006" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0007" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0008" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+	<SubTexture name="u-ki0009" x="20" y="985" width="373" height="465" frameX="-1" frameY="-14" frameWidth="374" frameHeight="479"/>
+</TextureAtlas>
